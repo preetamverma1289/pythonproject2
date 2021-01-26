@@ -22,7 +22,7 @@ import sys
 from pythonproject2 import __version__
 
 __author__ = "Preetam Verma"
-__copyright__ = "Preetam Verma"
+__copyright__ = "Preetam Verma1"
 __license__ = "mit"
 
 _logger = logging.getLogger(__name__)
